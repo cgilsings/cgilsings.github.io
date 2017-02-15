@@ -12,13 +12,11 @@ h1, p {
 	font-size: 30px;
 	padding: 20px;
 }
-
 img {
 	width: 200px;
 }
-
 head {
-	font-size: 200px;
 	background-color: #ffffff;
+	font-size: 200px;
 	padding: 20px;
 }
