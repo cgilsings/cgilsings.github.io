@@ -4,13 +4,17 @@ body {
 h1, p {
 	color: #000;
 	font: verdana;
-	font-size: 14px;
+	font-size: 20px;
 }
 #slogan	{
 	font-style: italic;
-	font-size: 40px;
+	font-size: 80px;
 }
 
 img {
 	width: 100%;
+}
+
+head {
+	font-size: 200px;
 }
