@@ -8,4 +8,9 @@ h1, p {
 }
 #slogan	{
 	font-style: italic;
+	font-size: 40px;
+}
+
+img {
+	width: 100%;
 }
