@@ -1,5 +1,5 @@
 <style>
-@import url('http://fonts.googleapis.com/css?family=Cinzel|Julius+Sans+One|Jura|Yantramanav');
+@import url("http://fonts.googleapis.com/css?family=Cinzel|Julius+Sans+One|Jura|Yantramanav");
 </style>
 body {
 	background-color: #848784;
@@ -22,8 +22,4 @@ head {
 	background-color: #BCBEC0;
 	font-size: 200px;
 	padding: 20px;
-}
-#welcome {
-	font-family: 'Jura', serif;
-	font-size: 20px;
 }
