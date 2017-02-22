@@ -1,9 +1,12 @@
+<style>
+@import url(https://fonts.googleapis.com/css?family=Cinzel|Julius+Sans+One|Jura|Yantramanav);
+</style>
 body {
 	background-color: #848784;
 }
 h1, p {
 	color: #000;
-	font: verdana;
+	font-family: 'Cinzel', serif;
 	font-size: 20px;
 }
 #slogan	{
