@@ -23,3 +23,8 @@ head {
 	font-size: 200px;
 	padding: 20px;
 }
+#body {
+	font-family: 'Jura', serif;
+	font-size: 20px;
+}
+}
