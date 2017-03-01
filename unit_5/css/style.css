@@ -15,7 +15,9 @@ p {
 }
 #slogan	{
 	background-color: #E82C0C;
-	boder-color: black;
+	border-style: solid;
+	border-width: 10px;
+	border-color: #110707;
 	font-style: italic;
 	font-size: 30px;
 	padding: 10px;
