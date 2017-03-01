@@ -2,9 +2,10 @@ body {
 	background-color: #848784;
 }
 header {
-	background-color: #a5a0a0;
+	background-color: #110707;
 	font-style: 'Yantramanav', serif;
 	font-size: .5em;
+	padding: 2px;
 }
 p {
 	color: #000;
