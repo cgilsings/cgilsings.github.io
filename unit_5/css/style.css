@@ -15,6 +15,7 @@ p {
 }
 #slogan	{
 	background-color: #E82C0C;
+	boder-color: black;
 	font-style: italic;
 	font-size: 30px;
 	padding: 10px;
