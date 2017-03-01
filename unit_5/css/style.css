@@ -6,7 +6,10 @@ header {
 	font-style: 'Yantramanav', serif;
 	font-size: 15em;
 	color: #fff;
-	padding: 1px;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
 }
 p {
 	color: #000;
