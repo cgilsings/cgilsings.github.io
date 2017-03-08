@@ -54,6 +54,15 @@ hr {
 	padding: 2px;
 }
 
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
 #two_column {
 	background-color: #FFB7CF;
 	border: 1px black solid;
@@ -74,15 +83,6 @@ hr {
 	padding: 20px;
 	float: right;
 	width: 62%;
-}
-
-.clearfix:after {
-	visibility: hidden;
-	display: block;
-	font-size: 0;
-	content: " ";
-	clear: both;
-	height: 0;
 }
 
 footer {
