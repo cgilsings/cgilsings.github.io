@@ -1,0 +1,52 @@
+body {
+	background-color: #848784;
+}
+header {
+	background-color: #FFED74;
+	font-style: 'Yantramanav', serif;
+	font-size: 8em;
+	color: #fff;
+	padding: 3px;
+}
+p {
+	color: #000;
+	font-family: 'Cinzel', serif;
+	font-size: 20px;
+}
+#slogan	{
+	background-color: #E82C0C;
+	border-style: solid;
+	border-width: 4px;
+	border-color: #110707;
+	font-style: italic;
+	font-size: 35px;
+	padding: 20px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+#Chad {
+	display: block;
+	width: 200px;
+	background-color: #000;
+}
+
+h1 {
+	font-family: 'Jura', serif;
+	font-size: 150px;
+}
+nav {
+	background-color: #E8C66A;
+	font-size: 15px;
+	text-align: center;
+	padding-right: 3px;
+	padding-left: 1px;
+}
+hr {
+	background-color: #fff;
+	margin-bottom: 25px;
+	padding: 2px;
+}
+footer {
+	background-color: #FF957E;
+}
