@@ -27,7 +27,8 @@ p {
 
 #Chad {
 	display: block;
-	width: 100px;
+	max-width: 100%;
+	height: auto;
 	background-color: #000;
 }
 
