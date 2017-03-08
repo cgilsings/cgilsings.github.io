@@ -27,6 +27,7 @@ p {
 
 #Chad {
 	display: block;
+	width: 100px;
 	margin: auto;
 	background-color: #000;
 }
