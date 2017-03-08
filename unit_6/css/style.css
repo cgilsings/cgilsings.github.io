@@ -64,25 +64,25 @@ hr {
 }
 
 #two_column {
-	background-color: #FFB7CF;
+	background-color: #fff;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 #left {
-	background-color: violet;
+	background-color: #fff;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
-	width: 30%;
+	width: 40%;
 }
 
 #right {
-	background-color: pink;
+	background-color: #fff;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 62%;
+	width: 40%;
 }
 
 footer {
