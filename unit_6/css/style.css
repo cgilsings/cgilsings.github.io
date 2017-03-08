@@ -27,11 +27,13 @@ p {
 
 #Chad {
 	display: block;
-	width: 100px;
 	margin: auto;
 	background-color: #000;
 }
 
+img {
+	width: 100px;
+}
 h1 {
 	font-family: 'Jura', serif;
 	font-size: 150px;
