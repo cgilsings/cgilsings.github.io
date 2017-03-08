@@ -32,6 +32,11 @@ p {
 	background-color: #000;
 }
 
+img {
+	height: 100px;
+	width: 100px;
+}
+
 h1 {
 	font-family: 'Jura', serif;
 	font-size: 150px;
