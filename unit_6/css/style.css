@@ -2,7 +2,7 @@ body {
 	background-color: #848784;
 }
 header {
-	background-color: #FFED74;
+	background-color: #000000;
 	font-style: 'Yantramanav', serif;
 	font-size: 8em;
 	color: #fff;
@@ -14,7 +14,7 @@ p {
 	font-size: 20px;
 }
 #slogan	{
-	background-color: #E82C0C;
+	background-color: #e82c0c;
 	border-style: solid;
 	border-width: 4px;
 	border-color: #110707;
@@ -32,7 +32,8 @@ p {
 	background-color: #000;
 }
 
-img {
+img.center {
+	display: block;
 	height: 300px;
 	width: 300px;
 	margin: 0 auto;
