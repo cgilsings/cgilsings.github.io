@@ -50,6 +50,7 @@ nav {
 	padding-right: 3px;
 	padding-left: 1px;
 }
+
 hr {
 	background-color: #fff;
 	margin-bottom: 25px;
@@ -88,6 +89,5 @@ hr {
 }
 
 footer {
-	background-color: #FF957E;
 	float: right;
 }
