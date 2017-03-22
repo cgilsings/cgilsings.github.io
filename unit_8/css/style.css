@@ -108,15 +108,15 @@ footer {
 	background-color: #bdbfc1;
 	border: 1px black solid;
 	padding: 30px;
-	float: left;
 	width: auto;
+	float: left;	
 	}
 	#right {
 	background-color: #bdbfc1;
 	border: 1px black solid;
 	padding: 30px;
-	float: right;
 	width: auto;
+	float: right;	
 	}	
 }
 
