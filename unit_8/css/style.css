@@ -104,7 +104,13 @@ footer {
 	text-align: center;
 	float: none;
 	}
-
+	#left {
+	background-color: #bdbfc1;
+	border: 1px black solid;
+	padding: 30px;
+	float: none;
+	width: 100%;
+	}
 	#right {
 	background-color: #bdbfc1;
 	border: 1px black solid;
