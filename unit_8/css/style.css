@@ -109,14 +109,14 @@ footer {
 	border: 1px black solid;
 	padding: 30px;
 	width: auto;
-	float: left;	
+	float: none;	
 	}
 	#right {
 	background-color: #bdbfc1;
 	border: 1px black solid;
 	padding: 30px;
 	width: auto;
-	float: right;	
+	float: none;	
 	}	
 }
 
