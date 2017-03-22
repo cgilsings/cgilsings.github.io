@@ -96,7 +96,7 @@ footer {
 	float: right;
 }
 
-@media screen only and (min-width: 730px) {
+@media screen only and (min-width: 700px) {
 	nav {
 	background-color: #000000;
 	font-size: 25px;
@@ -114,8 +114,9 @@ footer {
 	#right {
 	background-color: #bdbfc1;
 	border: 1px black solid;
-	padding: 8%;
+	padding: 30px;
 	float: none;
 	width: 100%;
 	}	
 }
+
