@@ -28,7 +28,7 @@ p {
 #Chad {
 	display: block;
 	margin: auto;
-	width: 350px;
+	width: 78%x;
 	background-color: #000;
 }
 
@@ -46,6 +46,7 @@ h1 {
 nav {
 	background-color: #000000;
 	font-size: 25px;
+	text-decoration-color: #ffffff;
 	text-align: center;
 	padding-right: 3px;
 	padding-left: 1px;
@@ -90,4 +91,16 @@ hr {
 
 footer {
 	float: right;
+}
+
+@media screen only and (min-width: 730px) {
+	nav {
+	background-color: #000000;
+	font-size: 25px;
+	text-decoration-color: #ffffff;
+	text-align: center;
+	padding-right: 3px;
+	padding-left: 1px;
+	float: none;
+	}
 }
