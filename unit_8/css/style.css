@@ -52,6 +52,9 @@ nav {
 	padding-left: 1px;
 }
 
+a {
+	color: #ffffff;
+}
 hr {
 	background-color: #fff;
 	margin-bottom: 25px;
