@@ -98,25 +98,25 @@ footer {
 
 @media screen only and (max-width: 700px) {
 	nav {
-	background-color: #000000;
-	font-size: 1.5em;
-	text-decoration-color: #ffffff;
-	text-align: center;
-	float: none;
+		background-color: #000000;
+		font-size: 1.5em;
+		text-decoration-color: #ffffff;
+		text-align: center;
+		float: none;
 	}
 	#left {
-	background-color: #bdbfc1;
-	border: 1px black solid;
-	padding: 1.8em;
-	width: auto;
-	float: none;	
+		background-color: #bdbfc1;
+		border: 1px black solid;
+		padding: 1.8em;
+		width: auto;
+		float: none;	
 	}
 	#right {
-	background-color: #bdbfc1;
-	border: 1px black solid;
-	padding: 1.8em;
-	width: auto;
-	float: none;	
+		background-color: #bdbfc1;
+		border: 1px black solid;
+		padding: 1.8em;
+		width: auto;
+		float: none;	
 	}	
 }
 
