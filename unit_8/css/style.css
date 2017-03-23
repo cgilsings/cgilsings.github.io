@@ -117,6 +117,13 @@ footer {
 		padding: 1.8em;
 		width: auto;
 		float: none;	
-	}	
+	}
+	header {
+	background-color: #000000;
+	font-style: 'Yantramanav', serif;
+	font-size: 2em;
+	color: #fff;
+	padding: 3px;
+}	
 }
 
