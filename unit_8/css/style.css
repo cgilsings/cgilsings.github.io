@@ -35,7 +35,7 @@ p {
 img {
 	display: block;
 	height: 30%;
-	width: 60%;
+	width: 30%;
 	margin: 0 auto;
 }
 
@@ -124,6 +124,6 @@ footer {
 	font-size: 2em;
 	color: #fff;
 	padding: 3px;
-}	
+	}	
 }
 
